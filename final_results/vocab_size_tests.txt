@@ -1,0 +1,252 @@
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.788
+macro_f: 0.767
+micro_f: 0.788
+
+--> TEST  2
+full vocab:  24530
+acc: 0.839
+macro_f: 0.817
+micro_f: 0.839
+
+--> TEST  3
+full vocab:  23856
+acc: 0.810
+macro_f: 0.785
+micro_f: 0.810
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  20
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.812
+average F score (macro): 0.790
+average F score (micro): 0.812
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.833
+macro_f: 0.818
+micro_f: 0.833
+
+--> TEST  2
+full vocab:  24530
+acc: 0.854
+macro_f: 0.835
+micro_f: 0.854
+
+--> TEST  3
+full vocab:  23856
+acc: 0.849
+macro_f: 0.829
+micro_f: 0.849
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  50
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.845
+average F score (macro): 0.827
+average F score (micro): 0.845
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.875
+macro_f: 0.863
+micro_f: 0.875
+
+--> TEST  2
+full vocab:  24530
+acc: 0.844
+macro_f: 0.823
+micro_f: 0.844
+
+--> TEST  3
+full vocab:  23856
+acc: 0.859
+macro_f: 0.845
+micro_f: 0.859
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  100
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.859
+average F score (macro): 0.844
+average F score (micro): 0.859
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.836
+macro_f: 0.819
+micro_f: 0.836
+
+--> TEST  2
+full vocab:  24530
+acc: 0.880
+macro_f: 0.868
+micro_f: 0.880
+
+--> TEST  3
+full vocab:  23856
+acc: 0.880
+macro_f: 0.870
+micro_f: 0.880
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  500
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.865
+average F score (macro): 0.852
+average F score (micro): 0.865
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.836
+macro_f: 0.817
+micro_f: 0.836
+
+--> TEST  2
+full vocab:  24530
+acc: 0.876
+macro_f: 0.871
+micro_f: 0.876
+
+--> TEST  3
+full vocab:  23856
+acc: 0.881
+macro_f: 0.876
+micro_f: 0.881
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  1000
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.864
+average F score (macro): 0.855
+average F score (micro): 0.864
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.819
+macro_f: 0.796
+micro_f: 0.819
+
+--> TEST  2
+full vocab:  24530
+acc: 0.839
+macro_f: 0.839
+micro_f: 0.839
+
+--> TEST  3
+full vocab:  23856
+acc: 0.867
+macro_f: 0.862
+micro_f: 0.867
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  2000
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.842
+average F score (macro): 0.832
+average F score (micro): 0.842
+
+============================================
+Docs: 4199
+
+--> TEST  1
+full vocab:  22112
+acc: 0.734
+macro_f: 0.692
+micro_f: 0.734
+
+--> TEST  2
+full vocab:  24530
+acc: 0.750
+macro_f: 0.724
+micro_f: 0.750
+
+--> TEST  3
+full vocab:  23856
+acc: 0.791
+macro_f: 0.766
+micro_f: 0.791
+
+--------- RESULTS ---------
+test runs: 3 
+
+vocab size:  10000
+stoplist:  False
+stem:  False
+html parse:  False
+headers removed:  False
+entity features used:  False
+forces using entity feats:  False
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+average accuracy: 0.758
+average F score (macro): 0.727
+average F score (micro): 0.758
